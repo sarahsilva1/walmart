@@ -1,0 +1,28 @@
+.thumbnail img {
+    max-height: 150px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.navbar{
+    background-color: #339CFF !important;
+}
+
+.navbar a{
+  color:white !important;
+}
+
+.dropdown .dropdown-menu a{
+  color: #339CFF !important;
+}
+
+.thumbnail .btn .btn-success {
+  color: #F39C12 !important;
+}
